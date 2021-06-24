@@ -2,9 +2,11 @@
 const Navbar = () => {
 
     return (
-        <div>
-            <h1>Navbar</h1>
+        <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <div className="container-fluid">
+          <a className="navbar-brand" href="#">Navbar</a>
         </div>
+        </nav>
     )
 }
 
