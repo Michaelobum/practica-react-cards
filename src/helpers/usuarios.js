@@ -101,7 +101,42 @@ const users = [
           "large": "https://scontent.fgye2-1.fna.fbcdn.net/v/t1.6435-9/71235020_2390067201089186_3359497790861344768_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=174925&_nc_ohc=Po4eZeZ8vj8AX-j-gNd&_nc_ht=scontent.fgye2-1.fna&oh=29e44d04e94b5bcb4c158ff67b28bbec&oe=60DD5E3F",
           "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
           "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+      }
+    },
+      {
+      "name": {
+        "title": "Mr",
+        "first": "Fred",
+        "last": "Perales"
+      },
+      "login": {
+        "uuid": "982838b4-3e24-4332-9a36-7343bb7b00c5",
+        "username": "yellowsnake109",
+        "password": "nick",
+      },
+      "picture": {
+        "large": "https://scontent.fgye2-1.fna.fbcdn.net/v/t1.6435-9/71800715_2416863168409589_961979061196816384_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=174925&_nc_ohc=2LqqedcbhGIAX8g2Eng&_nc_ht=scontent.fgye2-1.fna&oh=968d2ce692c08868ec03769a6cf4b27f&oe=60DE6F20",
+        "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+      }
+    },
+      {
+        "name": {
+          "title": "Mr",
+          "first": "Tarara",
+          "last": "Cook"
         },
-    }
+        "login": {
+          "uuid": "982838b5-3e24-4332-9a36-7353bb7b00c4",
+          "username": "yellowsnake109",
+          "password": "nick",
+        },
+        "picture": {
+          "large": "https://scontent.fgye2-1.fna.fbcdn.net/v/t1.6435-9/71235020_2390067201089186_3359497790861344768_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=174925&_nc_ohc=Po4eZeZ8vj8AX-j-gNd&_nc_ht=scontent.fgye2-1.fna&oh=29e44d04e94b5bcb4c158ff67b28bbec&oe=60DD5E3F",
+          "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+        }
+      },
+  
   ]
   export default users
